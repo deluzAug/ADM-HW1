@@ -19,4 +19,4 @@ commands = ["''.join(sorted(lower_case_letters))", "''.join(sorted(upper_case_le
 sorted_list = [eval(i) for i in commands]
 print(''.join(sorted_list))
 
-#This is probably too complicated, but it works... 
+#This is probably too complicated, but it works... I'll revisit this if I have time
